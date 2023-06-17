@@ -35,7 +35,6 @@ demo = gr.TabbedInterface([intfc1,intfc2], "API KEY", "POET BOT")
 
 demo.launch()
 
-#'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'
 
 
 
